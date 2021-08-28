@@ -1,4 +1,4 @@
-name: asj06
+name: Manually Deploy to heroku
 
 on: workflow_dispatch
 
